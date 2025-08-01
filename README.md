@@ -43,7 +43,7 @@ Design is more than aesthetics — it's a way to communicate, solve problems, an
 
 Each project is a chance to express, connect, and create something that resonates
 
-## 🌐 Liens utiles / Useful Links
+## 🌐 Useful Links
 
 - 🔗 [Portfolio](https://tonsiteperso.com)
 
