@@ -12,11 +12,6 @@
 Salut ! Moi c’est **Christopher**, développeur passionné par le web, le design et les projets créatifs.  
 Ce dépôt est mon profil GitHub, où je partage mes projets, mes idées et mes expérimentations.
 
-- 🔭 Je travaille actuellement sur des projets en **Symfony**, **Twig**, **SCSS** et **MySQL**
-- 🌱 J’apprends **Symfony**, **MySQL** et **Php**
-- 💬 N’hésite pas à me contacter pour discuter ou collaborer !
-- 📫 Contact : [LinkedIn](https://www.linkedin.com/in/christopher-martin-03974b295/)
-  
 ---
 ## 🛠️ Compétences techniques
 
