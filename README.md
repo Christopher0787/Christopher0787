@@ -3,7 +3,7 @@
 ![Visiteurs](https://komarev.com/ghpvc/?username=Christopher0787&label=Vues+du+profil&color=blue&style=flat)
 ![Licence](https://img.shields.io/github/license/Christopher0787/Christopher0787)
 ![Repo Size](https://img.shields.io/github/repo-size/Christopher0787/Christopher0787)
-![Dernier commit](https://img.shields.io/github/last-commit/Christopher0787/Christopher0787)
+
 
 ---
 
