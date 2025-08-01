@@ -48,6 +48,22 @@ Each project is a chance to express, connect, and create something that resonate
 
 
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![SCSS](https://img.shields.io/badge/SCSS-CD6799?logo=sass&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=flat-square)
+![Twig](https://img.shields.io/badge/Twig-0C7C3F?logo=twig&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
+![SCSS](https://img.shields.io/badge/SCSS-CD6799?logo=sass&logoColor=white&style=plastic)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=plastic)
+![Twig](https://img.shields.io/badge/Twig-0C7C3F?logo=twig&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
 
 
 
