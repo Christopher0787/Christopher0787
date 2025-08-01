@@ -1,6 +1,8 @@
+# 👋 Hi, I'm Christopher Welcome to my GitHub 
+
+
 ![Martin avec fond](https://github.com/user-attachments/assets/08178a53-39bf-4bff-8111-e70b690485bf)
 
-# 👋 Hi, I'm Christopher Welcome to my GitHub 
 
 ![Visiteurs](https://komarev.com/ghpvc/?username=Christopher0787&label=Vues+du+profil&color=blue&style=flat)
 ![Licence](https://img.shields.io/github/license/Christopher0787/Christopher0787)
@@ -17,9 +19,8 @@ Ce dépôt est mon profil GitHub, où je partage mes projets, mes idées et mes 
 - 🔭 Je travaille actuellement sur des projets en **Symfony**, **Twig**, **SCSS** et **MySQL**
 - 🌱 J’apprends **Symfony**, **MySQL** et **Php**
 - 💬 N’hésite pas à me contacter pour discuter ou collaborer !
-- 📫 Contact : [LinkedIn](https://www.linkedin.com/in/christopher-martin-03974b295/) *(à personnaliser si besoin)*
-- ⚡ Fun fact : [Quelque chose d’original sur toi]
-
+- 📫 Contact : [LinkedIn](https://www.linkedin.com/in/christopher-martin-03974b295/)
+  
 ---
 
 ## 🛠️ Compétences techniques
