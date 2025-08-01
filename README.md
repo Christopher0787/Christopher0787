@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Christopher Welcome to my GitHub </h1>
+<h1 align="center">👋 Hi, I'm @Christopher </h1>
 
 I am a developer, passionate about design who loves creating creative and functional digital experiences.
 
