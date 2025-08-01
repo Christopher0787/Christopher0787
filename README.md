@@ -30,16 +30,19 @@ Hi! I'm Christopher, a passionate developer focused on web technologies, design,
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Christopher0787&show_icons=true&theme=radical)
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher0787&layout=compact&theme=radical)
 
-## 🎯 Interests
+## 🎯 Interests in Graphic Design
 
-Programming is more than just a skill for me — it's a passion. Here's what drives me:
+Design is more than aesthetics — it's a way to communicate, solve problems, and inspire. Here's what fuels my passion for visual creation:
 
 - 💡 **Problem solving** 
-- 🎨 **Creativity** 
-- 🤝 **Collaboration** 
-- 🛠️ **Personal projects**
+- 🎨 **Creativity I love transforming ideas into visuals that are both functional and beautiful.**
+- 🧠 **Conceptual thinking Every design starts with a purpose. I enjoy crafting visuals that tell a story or solve a problem.**
+- ✍️ **Typography & layout Playing with fonts, grids, and composition is where I find balance between structure and emotion.**
+- 🎬 **Motion & interaction I explore animation and transitions to bring static designs to life.**
+- 🤝 **Collaboration Working with developers, clients, and other creatives helps push ideas further.** 
+- 🧰 **Tool mastery From Photoshop to After Effects, I enjoy learning and mastering the tools that shape modern design.**
 
-Every project I work on is an opportunity to learn, grow, and contribute to something meaningful.
+Each project is a chance to express, connect, and create something that resonates.
 
 ## 🌐 Useful Links
 
