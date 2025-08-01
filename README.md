@@ -1,14 +1,5 @@
 # 👋 Hi, I'm Christopher Welcome to my GitHub 
 
-![Visiteurs](https://komarev.com/ghpvc/?username=Christopher0787&label=Vues+du+profil&color=blue&style=flat)
-![Licence](https://img.shields.io/github/license/Christopher0787/Christopher0787)
-![Repo Size](https://img.shields.io/github/repo-size/Christopher0787/Christopher0787)
-
-
----
-
-## 🧑‍💻 À propos de moi
-
 Hi! I'm Christopher, a passionate developer focused on web technologies, design, and creative projects  
 
 ---
