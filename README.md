@@ -70,11 +70,11 @@ Ce dépôt est mon profil GitHub, où je partage mes projets, mes idées et mes 
 
 La programmation est bien plus qu'une compétence pour moi — c'est une passion. Voici ce qui m'anime :
 
-- 💡 **Résolution de problèmes** : J'aime relever des défis techniques et trouver des solutions élégantes.
-- 🧠 **Apprentissage continu** : Le monde du développement évolue sans cesse, et je suis toujours curieux de découvrir de nouvelles technologies.
-- 🎨 **Créativité** : Développer des interfaces et des fonctionnalités utiles me permet d’exprimer ma créativité.
-- 🤝 **Collaboration** : Travailler en équipe, partager des idées et construire des projets ensemble est une source de motivation.
-- 🛠️ **Projets personnels** : J’aime créer des applications concrètes comme des To-Do Lists, des blogs ou des outils de gestion.
+- 💡 **Résolution de problèmes** 
+- 🧠 **Apprentissage continu** 
+- 🎨 **Créativité** 
+- 🤝 **Collaboration** 
+- 🛠️ **Projets personnels** 
 
 Chaque projet que je réalise est une opportunité d’apprendre, de progresser et de contribuer à quelque chose de plus grand.
 
