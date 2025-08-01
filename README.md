@@ -1,5 +1,136 @@
 # 👋 Hi, I'm Christopher Welcome to my GitHub 
 
+<h1 align="center">👋 Bienvenue sur mon profil GitHub / Welcome to my GitHub Profile</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Christopher0787&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/Christopher0787?style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Christopher0787?style=social" alt="stars"/>
+</p>
+
+---
+
+## 🧑‍💻 À propos de moi / About Me
+
+**FR 🇫🇷**  
+Moi c’est **Christopher**, développeur passionné par le web, le design et les projets créatifs.  
+Je combine compétences techniques et sens artistique pour créer des expériences utiles et esthétiques.
+
+**EN 🇬🇧**  
+I'm **Christopher**, a passionate developer and designer who loves building creative and functional digital experiences.  
+I blend technical skills with artistic vision to bring ideas to life.
+
+---
+
+## 🛠️ Compétences techniques / Technical Skills
+
+<details>
+  <summary>🧑‍💻 Langages / Languages</summary>
+
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
+</details>
+
+<details>
+  <summary>💻 Développement / Development</summary>
+
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+  ![SCSS](https://img.shields.io/badge/-SCSS-CD6799?logo=sass&logoColor=white&style=for-the-badge)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+  ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
+  ![Twig](https://img.shields.io/badge/-Twig-0C7C3F?logo=twig&logoColor=white&style=for-the-badge)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+</details>
+
+<details>
+  <summary>⚙️ Outils / Tools</summary>
+
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+</details>
+
+<details>
+  <summary>🎨 Design & Création / Design & Creativity</summary>
+
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge)
+  ![InDesign](https://img.shields.io/badge/-InDesign-FF3366?logo=adobe-indesign&logoColor=white&style=for-the-badge)
+  ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white&style=for-the-badge)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christopher0787&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher0787&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎯 Centres d’intérêt / Interests
+
+**Développement / Development**  
+💡 Résolution de problèmes · 🧠 Apprentissage continu · 🎨 Créativité · 🤝 Collaboration · 🛠️ Projets personnels
+
+**Design graphique / Graphic Design**  
+🎨 Créativité · 🧠 Réflexion conceptuelle · ✍️ Typographie & mise en page · 🎬 Motion design · 🤝 Collaboration · 🧰 Maîtrise des outils
+
+---
+
+## 📂 Repositories intéressants / Featured Repositories
+
+| 📁 Projet | 📝 Description | 🚀 Technologies |
+|----------|----------------|-----------------|
+| [Christopher0787](https://github.com/Christopher0787/Christopher0787) | Mon profil GitHub | `Markdown`, `GitHub` |
+| [Formation_DWWM](https://github.com/Christopher0787/Formation_DWWM) | Projets réalisés durant la formation DWWM | `HTML`, `CSS`, `PHP`, `Symfony` |
+| [PHPTODOLISTCHRISTOPHER](https://github.com/Christopher0787/PHPTODOLISTCHRISTOPHER) | Application de gestion de tâches | `PHP`, `MySQL`, `HTML`, `CSS` |
+
+---
+
+## 🌐 Liens utiles / Useful Links
+
+- 🔗 [Portfolio](https://tonsiteperso.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/christopher-martin-03974b295/)
+
+---
+
+<p align="center"><b>✨ Merci pour votre visite ! / Thanks for visiting!</b><br>
+N’hésitez pas à me suivre ou à contribuer à mes projets. / Feel free to follow or contribute to my work.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hi! I'm Christopher, a passionate developer focused on web technologies, design, and creative projects  
 
 ## 🛠️ Technical Skills
@@ -46,7 +177,7 @@ Each project is a chance to express, connect, and create something that resonate
 
 ## 🌐 Useful Links
 
-- 🔗 [Portfolio](https://tonsiteperso.com) 
+- 🔗 [Portfolio](https://tonsiteperso.com)
 
 
 
