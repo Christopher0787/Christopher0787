@@ -47,9 +47,9 @@ Each project is a chance to express, connect, and create something that resonate
 ## 🌐 Useful Links
 
 - 🔗 [Portfolio](https://tonsiteperso.com) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/christopher-martin-03974b295/)
 
-> ✨ Thanks for visiting my profile! Feel free to follow me or contribute to my projects.
+
+
 
 
 
