@@ -37,12 +37,12 @@ I'm **Christopher**, a passionate developer and designer who loves building crea
 
 Design is more than aesthetics — it's a way to communicate, solve problems, and inspire. Here's what fuels my passion for visual creation:
 
-🎨 **Creativity I love transforming ideas into visuals that are both functional and beautiful.**
-🧠 **Conceptual thinking Every design starts with a purpose. I enjoy crafting visuals that tell a story or solve a problem.** 
-✍️ **Typography & layout Playing with fonts, grids, and composition is where I find balance between structure and emotion.**
-🎬 **Motion & interaction I explore animation and transitions to bring static designs to life.**
-🤝 **Collaboration Working with developers, clients, and other creatives helps push ideas further.**  
-🧰 **Tool mastery From Photoshop to After Effects, I enjoy learning and mastering the tools that shape modern design.**
+- 🎨 **Creativity I love transforming ideas into visuals that are both functional and beautiful.**
+- 🧠 **Conceptual thinking Every design starts with a purpose. I enjoy crafting visuals that tell a story or solve a problem.** 
+- ✍️ **Typography & layout Playing with fonts, grids, and composition is where I find balance between structure and emotion.**
+- 🎬 **Motion & interaction I explore animation and transitions to bring static designs to life.**
+- 🤝 **Collaboration Working with developers, clients, and other creatives helps push ideas further.**  
+- 🧰 **Tool mastery From Photoshop to After Effects, I enjoy learning and mastering the tools that shape modern design.**
 
 Each project is a chance to express, connect, and create something that resonates
 
