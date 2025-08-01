@@ -9,20 +9,19 @@
 
 ## 🧑‍💻 À propos de moi
 
-Salut ! Moi c’est **Christopher**, développeur passionné par le web, le design et les projets créatifs.  
-Ce dépôt est mon profil GitHub, où je partage mes projets, mes idées et mes expérimentations.
+Hi! I'm Christopher, a passionate developer focused on web technologies, design, and creative projects  
 
 ---
-## 🛠️ Compétences techniques
+## 🛠️ Technical Skills
 
-### 🧑‍💻 Langages de programmation
+### 🧑‍💻 Programming Languages
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 ---
 
-### 💻 Développement
+### 💻 Development
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -34,21 +33,21 @@ Ce dépôt est mon profil GitHub, où je partage mes projets, mes idées et mes 
 
 ---
 
-### ⚙️ Outils de développement
+### ⚙️ Development Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
 
-### 🐳 DevOps & Systèmes
+### 🐳 DevOps & Systems
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
 ---
 
-### 🎨 Design & Création
+### 🎨 Design & Creativity
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge)
@@ -59,35 +58,34 @@ Ce dépôt est mon profil GitHub, où je partage mes projets, mes idées et mes 
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Christopher0787&show_icons=true&theme=radical)
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher0787&layout=compact&theme=radical)
 
 ---
 
-## 🎯 Intérêts
+## 🎯 Interests
 
-La programmation est bien plus qu'une compétence pour moi — c'est une passion. Voici ce qui m'anime :
+Programming is more than just a skill for me — it's a passion. Here's what drives me:
 
-- 💡 **Résolution de problèmes** 
-- 🧠 **Apprentissage continu** 
-- 🎨 **Créativité** 
+- 💡 **Problem solving** 
+- 🎨 **Creativity** 
 - 🤝 **Collaboration** 
-- 🛠️ **Projets personnels** 
+- 🛠️ **Personal projects**
 
-Chaque projet que je réalise est une opportunité d’apprendre, de progresser et de contribuer à quelque chose de plus grand.
+Every project I work on is an opportunity to learn, grow, and contribute to something meaningful.
 
 ---
 
-## 🌐 Liens utiles
+## 🌐 Useful Links
 
 - 🔗 [Portfolio](https://tonsiteperso.com) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/christopher-martin-03974b295/)
 
 ---
 
-> ✨ Merci de visiter mon profil ! N’hésite pas à me suivre ou à contribuer à mes projets.
+> ✨ Thanks for visiting my profile! Feel free to follow me or contribute to my projects.
 
 
 
