@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Christopher Welcome to my GitHub </h1>
 
-I'm **Christopher**, a passionate developer and designer who loves building creative and functional digital experiences.  
+I am a developer, passionate about design who loves creating creative and functional digital experiences.
 
 ## 🛠️ Technical Skills
 
@@ -27,11 +27,8 @@ I'm **Christopher**, a passionate developer and designer who loves building crea
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Christopher0787&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher0787&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Christopher0787&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher0787&layout=compact&theme=radical" alt="Top Languages"/>
 
 ## 🎯 Interests in Graphic Design
 
